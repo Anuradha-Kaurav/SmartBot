@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="orange">#FF7043</color>
+    <color name="green">#26A69A</color>
+
+    <color name="receiveBubbleColor">#689f38</color>
+    <color name="sendBubbleColor">#2196f3</color>
+
+    <!--<color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#151515</color>
+    <color name="colorAccent">#FF7043</color>-->
+</resources>

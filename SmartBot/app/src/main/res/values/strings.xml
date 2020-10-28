@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SmartBot</string>
+    <string name="send">Send</string>
+    <string name="type_a_message">Type a message...</string>
+</resources>
